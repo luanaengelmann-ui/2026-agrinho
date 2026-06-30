@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agrinho 2026 - Festejando a Conexão Campo e Cidade</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,Helvetica,sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+background:#eef8ec;
+color:#333;
+}
+
+header{
+background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
+url("https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1600&q=80");
+background-size:cover;
+background-position:center;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+color:white;
+padding:20px;
+}
+
+header h1{
+font-size:60px;
+margin-bottom:20px;
+}
+
+header p{
+font-size:24px;
+max-width:800px;
+}
+
+nav{
+background:#2e8b57;
+padding:15px;
+position:sticky;
+top:0;
+z-index:1000;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+section{
+padding:60px 10%;
+}
+
+h2{
+color:#2e8b57;
+margin-bottom:20px;
+font-size:35px;
+}
+
+.topico{
+background:white;
+padding:25px;
+border-radius:15px;
+margin-bottom:35px;
+box-shadow:0 5px 15px rgba(0,0,0,.15);
+transition:.4s;
+}
+
+.topico:hover{
+transform:translateY(-5px);
+}
+
+.topico img{
+width:100%;
+border-radius:12px;
+margin-bottom:20px;
+}
+
+p{
+line-height:1.8;
+font-size:18px;
+text-align:justify;
+}
+
+footer{
+background:#2e8b57;
+color:white;
+text-align:center;
+padding:25px;
+margin-top:40px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<div>
+<h1>AGRINHO 2026</h1>
+<p>Festejando a Conexão entre o Campo e a Cidade</p>
+</div>
+
+</header>
+
+<nav>
+
+<a href="#introducao">Introdução</a>
+<a href="#campo">Campo</a>
+<a href="#cidade">Cidade</a>
+<a href="#sustentabilidade">Sustentabilidade</a>
+<a href="#tecnologia">Tecnologia</a>
+<a href="#conclusao">Conclusão</a>
+
+</nav>
+
+<section id="introducao">
+
+<div class="topico">
+
+<h2>Introdução</h2>
+
+<p>
+O tema do Agrinho 2026 mostra como o campo e a cidade dependem um do outro.
+Enquanto o campo produz alimentos, fibras e matérias-primas, a cidade oferece
+tecnologia, comércio, educação e diversos serviços essenciais. Essa parceria
+contribui para o desenvolvimento econômico, social e ambiental do Brasil,
+demonstrando que a cooperação entre esses dois espaços é fundamental para uma
+sociedade mais equilibrada.
+</p>
+
+</div>
+
+</section>
+
+<section id="campo">
+
+<div class="topico">
+
+<img src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80">
+
+<h2>O Campo</h2>
+
+<p>
+O campo é responsável pela produção de alimentos que chegam diariamente às mesas
+das famílias brasileiras. Além disso, fornece matérias-primas para diversas
+indústrias e gera empregos para milhões de pessoas. A agricultura moderna utiliza
+novas tecnologias para aumentar a produção, preservar os recursos naturais e
+garantir alimentos de qualidade para toda a população.
+</p>
+
+</div>
+
+</section>
+
+<section id="cidade">
+
+<div class="topico">
+
+<img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80">
+
+<h2>A Cidade</h2>
+
+<p>
+A cidade é o espaço onde grande parte dos alimentos produzidos no campo é
+consumida. Também é nela que acontecem pesquisas, desenvolvimento de máquinas,
+produção de tecnologias e comercialização dos produtos agrícolas. Dessa forma,
+cidade e campo trabalham juntos para fortalecer a economia e melhorar a qualidade
+de vida da população.
+</p>
+
+</div>
+
+</section>
+
+<section id="sustentabilidade">
+
+<div class="topico">
+
+<img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80">
+
+<h2>Sustentabilidade</h2>
+
+<p>
+Produzir alimentos de forma sustentável significa cuidar do solo, da água, das
+florestas e da biodiversidade. A preservação ambiental garante que as futuras
+gerações também possam utilizar os recursos naturais. Práticas como o plantio
+direto, recuperação de áreas degradadas e uso consciente da água contribuem para
+uma produção mais responsável.
+</p>
+
+</div>
+
+</section>
+
+<section id="tecnologia">
+
+<div class="topico">
+
+<img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=80">
+
+<h2>Tecnologia e Inovação</h2>
+
+<p>
